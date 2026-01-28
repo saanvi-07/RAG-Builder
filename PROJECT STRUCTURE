@@ -1,0 +1,15 @@
+rag-qa-system/
+│
+├── app/
+│   ├── main.py
+│   ├── ingestion.py
+│   ├── rag.py
+│   ├── models.py
+│   ├── rate_limit.py
+│
+├── data/
+│   ├── faiss_index/
+│
+├── requirements.txt
+├── README.md
+└── explanations.md
